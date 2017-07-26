@@ -1,0 +1,2 @@
+addr,label,attempts,successes,consec successes,failures,consec failures,est latency,most recent bandwidth estimate,est bandwidth
+47.74.6.156:22925,fp-sbtk1a-20170607-138 (47.74.6.156:22925),1305,1304,795,1,0,146.85717ms,2017-07-20T21:56:07.5689847+08:00,6010
